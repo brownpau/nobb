@@ -1,0 +1,8 @@
+
+NOBB is a bookmarklet to prepend "No Offense, But " to all anchor, span, and paragraph elements.
+
+Copy content of NOBB.TXT to a new bookmark, or open NOBB.HTML and drag "NOBB" to your bookmarks bar.
+
+Many thanks to Ben Alman for the bookmarklet generator.
+http://benalman.com/code/test/jquery-run-code-bookmarklet/
+
